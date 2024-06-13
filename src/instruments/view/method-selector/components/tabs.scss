@@ -1,0 +1,17 @@
+.tabs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 575px;
+  margin: 0 auto;
+
+  .tab {
+    border: 1px solid var(--r-border);
+    padding: var(--r-space-3);
+    border-radius: var(--r-border-radius-3);
+    background-color: var(--r-surface-secondary);
+    color: var(--r-text);
+    cursor: pointer;
+    min-width: calc(50% - var(--r-space-3));
+  }
+}

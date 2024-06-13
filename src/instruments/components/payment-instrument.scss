@@ -1,0 +1,21 @@
+.rebilly-instruments-payment-instrument {
+  display: inline-flex;
+  align-items: baseline;
+  justify-content: space-between;
+  height: 26px;
+  margin-bottom: 0px;
+
+  .rebilly-instruments-payment-instrument-brand {
+    margin-right: var(--r-space-3);
+  }
+
+  .rebilly-instruments-payment-instrument-last4 {
+    margin-right: var(--r-space-5);
+  }
+
+  .rebilly-instruments-payment-instrument-exp {
+    color: var(--r-text-muted);
+    font-size: var(--r-font-size-s);
+    font-family: var(--r-font-family-mono);
+  }
+}

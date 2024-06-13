@@ -1,0 +1,3213 @@
+[
+  {
+    "apiName": "ach",
+    "name": "ACH",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/BankAccount.svg",
+    "summary": "ACH is a network used for processing transactions across the United States.",
+    "description": "ACH is a network used for processing transactions across the United States.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ach"
+      }
+    ]
+  },
+  {
+    "apiName": "AdvCash",
+    "name": "AdvCash",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/AdvCash.svg",
+    "summary": "AdvCash is an online payment system offering prepaid cards for individuals and\nonline businesses.\n",
+    "description": "AdvCash is an online payment system offering prepaid cards for individuals and\nonline businesses.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/AdvCash"
+      }
+    ]
+  },
+  {
+    "apiName": "Aircash",
+    "name": "Aircash",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Aircash is a mobile payment wallet that allows customers to pay for goods and services using their mobile phone.\n",
+    "description": "Aircash is a mobile payment wallet that allows customers to pay for goods and services using their mobile phone.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Aircash"
+      }
+    ]
+  },
+  {
+    "apiName": "Airpay",
+    "name": "Airpay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Airpay is an e-wallet that elevates you to an easier and more convenient\nlifestyle with all in one services.\n",
+    "description": "Airpay is an e-wallet that elevates you to an easier and more convenient\nlifestyle with all in one services.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Airpay"
+      }
+    ]
+  },
+  {
+    "apiName": "Alfa-click",
+    "name": "Alfa-click",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Alfa-click combines digital and physical payment experiences and is among the\nhighest ranking Russian private banks.\n",
+    "description": "Alfa-click combines digital and physical payment experiences and is among the\nhighest ranking Russian private banks.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Alfa-click"
+      }
+    ]
+  },
+  {
+    "apiName": "Alipay",
+    "name": "Alipay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Alipay is the most popular e-wallet and payment platform in Asia. Millions of\ntransactions are processed each day in China.\n",
+    "description": "Alipay is the most popular e-wallet and payment platform in Asia. Millions of\ntransactions are processed each day in China.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Alipay"
+      }
+    ]
+  },
+  {
+    "apiName": "AmazonPay",
+    "name": "AmazonPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The AmazonPay method.",
+    "description": "The AmazonPay method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/AmazonPay"
+      }
+    ]
+  },
+  {
+    "apiName": "Apple Pay",
+    "name": "Apple Pay",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Applepay.svg",
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Applepay.svg",
+    "summary": "Apple Pay is a digital wallet that also allows users to make payments in\nperson using a one-step payment process.\n",
+    "description": "Apple Pay is a digital wallet that also allows users to make payments in\nperson using a one-step payment process.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Apple%20Pay"
+      }
+    ]
+  },
+  {
+    "apiName": "AstroPay Card",
+    "name": "AstroPay Card",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "AstroPay Card allows consumers to purchase online at international websites,\nusing the most effective local payment methods in local currency.\n",
+    "description": "AstroPay Card allows consumers to purchase online at international websites,\nusing the most effective local payment methods in local currency.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/AstroPay%20Card"
+      }
+    ]
+  },
+  {
+    "apiName": "AstroPay-GO",
+    "name": "AstroPay Go",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "AstroPay allows consumers to purchase online at international websites, using\nthe most effective local payment methods in local currency.\n",
+    "description": "AstroPay allows consumers to purchase online at international websites, using\nthe most effective local payment methods in local currency.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/AstroPay-GO"
+      }
+    ]
+  },
+  {
+    "apiName": "Baloto",
+    "name": "Baloto",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Baloto is Colombia's largest lottery and payment service and is used by 80% of\nthe Colombian population.\n",
+    "description": "Baloto is Colombia's largest lottery and payment service and is used by 80% of\nthe Colombian population.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Baloto"
+      }
+    ]
+  },
+  {
+    "apiName": "Bancontact-mobile",
+    "name": "Bancontact-mobile",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Bancontact mobile allows the shopper to complete a payment with the mobile\napp. installed on their device.\n",
+    "description": "Bancontact mobile allows the shopper to complete a payment with the mobile\napp. installed on their device.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Bancontact-mobile"
+      }
+    ]
+  },
+  {
+    "apiName": "Bancontact",
+    "name": "Bancontact",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Bancontact is a payment system offered by more than 80% of online Belgian\nbusinesses and functions like a regular card payment.\n",
+    "description": "Bancontact is a payment system offered by more than 80% of online Belgian\nbusinesses and functions like a regular card payment.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Bancontact"
+      }
+    ]
+  },
+  {
+    "apiName": "BankReferenced",
+    "name": "BankReferenced",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The BankReferenced method.",
+    "description": "The BankReferenced method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/BankReferenced"
+      }
+    ]
+  },
+  {
+    "apiName": "BankSEND",
+    "name": "BankSEND",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "With the BankSEND platform, customers pay with their online banking data using direct bank transfer.\n",
+    "description": "With the BankSEND platform, customers pay with their online banking data using direct bank transfer.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/BankSEND"
+      }
+    ]
+  },
+  {
+    "apiName": "bank-transfer",
+    "name": "Bank Transfer",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "A bank transfer is the direct, electronic transfer of funds from one bank\naccount to another.\n",
+    "description": "A bank transfer is the direct, electronic transfer of funds from one bank\naccount to another.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/bank-transfer"
+      }
+    ]
+  },
+  {
+    "apiName": "Beeline",
+    "name": "Beeline",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Beeline offers a universal payment card and a mobile prepaid network system\nthat allows money transfers between Beeline subscribers.\n",
+    "description": "Beeline offers a universal payment card and a mobile prepaid network system\nthat allows money transfers between Beeline subscribers.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Beeline"
+      }
+    ]
+  },
+  {
+    "apiName": "Belfius-direct-net",
+    "name": "Belfius Direct Net",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Belfius is one of the leading online private banks in Belgium. They are used\nby 1 in 3 Belgians and have over 3.6 million customers.\n",
+    "description": "Belfius is one of the leading online private banks in Belgium. They are used\nby 1 in 3 Belgians and have over 3.6 million customers.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Belfius-direct-net"
+      }
+    ]
+  },
+  {
+    "apiName": "bitcoin",
+    "name": "Bitcoin",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Bitcoin.svg",
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Bitcoin.svg",
+    "summary": "Bitcoin payment method provides a borderless payment network and a seamless\ntransfer of bitcoins from anywhere in the world through any online devices.\n",
+    "description": "Bitcoin payment method provides a borderless payment network and a seamless\ntransfer of bitcoins from anywhere in the world through any online devices.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/bitcoin"
+      }
+    ]
+  },
+  {
+    "apiName": "Bizum",
+    "name": "Bizum",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Bizum is the immediate, fast, convenient and universal mobile payment solution promoted by Spanish banks.",
+    "description": "Bizum is the immediate, fast, convenient and universal mobile payment solution promoted by Spanish banks.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Bizum"
+      }
+    ]
+  },
+  {
+    "apiName": "Blik",
+    "name": "Blik",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Blik is a Polish payment system that allows users to make instant payments and\nwithdraw cash using a mobile banking app.\n",
+    "description": "Blik is a Polish payment system that allows users to make instant payments and\nwithdraw cash using a mobile banking app.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Blik"
+      }
+    ]
+  },
+  {
+    "apiName": "Boleto",
+    "name": "Boleto",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Boleto is Brazil's most popular cash-based payment method. It's the only\npayment option available for 35% of Brazillian consumers without a bank\naccount.\n",
+    "description": "Boleto is Brazil's most popular cash-based payment method. It's the only\npayment option available for 35% of Brazillian consumers without a bank\naccount.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Boleto"
+      }
+    ]
+  },
+  {
+    "apiName": "CASHlib",
+    "name": "CASHlib",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "CASHlib is a voucher based payment method that allows you to make online\npayments without the need of a credit or debit card.\n",
+    "description": "CASHlib is a voucher based payment method that allows you to make online\npayments without the need of a credit or debit card.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/CASHlib"
+      }
+    ]
+  },
+  {
+    "apiName": "CCAvenue",
+    "name": "CCAvenue",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/portrait/PaymentCard.svg",
+    "portraitLogo": null,
+    "summary": "CCAvenue Checkout offers a smooth, fast and frictionless buying experience.\n",
+    "description": "CCAvenue Checkout offers a smooth, fast and frictionless buying experience.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/CCAvenue"
+      }
+    ]
+  },
+  {
+    "apiName": "CODVoucher",
+    "name": "CODVoucher",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "CODVoucher offers a digital voucher that the customer can scan at an\nauthorized location and pay with cash.\n",
+    "description": "CODVoucher offers a digital voucher that the customer can scan at an\nauthorized location and pay with cash.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/CODVoucher"
+      }
+    ]
+  },
+  {
+    "apiName": "cash",
+    "name": "Cash",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Cash is money in a physical form like coins or notes.",
+    "description": "Cash is money in a physical form like coins or notes.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/cash"
+      }
+    ]
+  },
+  {
+    "apiName": "cash-deposit",
+    "name": "Cash Deposit",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "A cash deposit is money put into a bank account in the form of cash, checks,\nor bank transfers.\n",
+    "description": "A cash deposit is money put into a bank account in the form of cash, checks,\nor bank transfers.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/cash-deposit"
+      }
+    ]
+  },
+  {
+    "apiName": "CashToCode",
+    "name": "CashToCode",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "CashToCode is an instant cash payment service that does not require a bank\naccount or credit card.\n",
+    "description": "CashToCode is an instant cash payment service that does not require a bank\naccount or credit card.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/CashToCode"
+      }
+    ]
+  },
+  {
+    "apiName": "Cashterminal",
+    "name": "Cash Terminal",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "A Bulgarian based service, which provides the ability to pay in cash and in real time.\n",
+    "description": "A Bulgarian based service, which provides the ability to pay in cash and in real time.\n",
+    "countries": {
+      "mode": "subset",
+      "values": ["BG"]
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Cashterminal"
+      }
+    ]
+  },
+  {
+    "apiName": "check",
+    "name": "Check",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Checks are physical documents that direct a bank to pay a specific amount of\nmoney to the recipient of the check.\n",
+    "description": "Checks are physical documents that direct a bank to pay a specific amount of\nmoney to the recipient of the check.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/check"
+      }
+    ]
+  },
+  {
+    "apiName": "China UnionPay",
+    "name": "China UnionPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "China UnionPay is the largest card scheme in China while also offering mobile\nand online payments. China UnionPay has over 7 billion cards in use and is\nconnected to all the ATMs across the country.\n",
+    "description": "China UnionPay is the largest card scheme in China while also offering mobile\nand online payments. China UnionPay has over 7 billion cards in use and is\nconnected to all the ATMs across the country.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/China%20UnionPay"
+      }
+    ]
+  },
+  {
+    "apiName": "Conekta-oxxo",
+    "name": "Conekta OXXO",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/ConektaOxxo.svg",
+    "portraitLogo": null,
+    "summary": "Conekta OXXO Pay allows customers to purchase online or instore with a\ncash-based voucher. 30% of transactions in Mexico are with OXXO and they offer\nreal-time payment confirmation.\n",
+    "description": "Conekta OXXO Pay allows customers to purchase online or instore with a\ncash-based voucher. 30% of transactions in Mexico are with OXXO and they offer\nreal-time payment confirmation.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Conekta-oxxo"
+      }
+    ]
+  },
+  {
+    "apiName": "Conekta-spei",
+    "name": "Conekta SPEI",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/ConektaOxxo.svg",
+    "portraitLogo": null,
+    "summary": "Conekta SPEI allows its customers to send and receive interbank electronic\ntransfers and obtain real-time payment confirmation in seconds.\n",
+    "description": "Conekta SPEI allows its customers to send and receive interbank electronic\ntransfers and obtain real-time payment confirmation in seconds.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Conekta-spei"
+      }
+    ]
+  },
+  {
+    "apiName": "cryptocurrency",
+    "name": "Cryptocurrency",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Cryptocurrency is a decentralized, digital currency based on blockchain\ntechnology which makes it nearly impossible to counterfeit or double-spend.\n",
+    "description": "Cryptocurrency is a decentralized, digital currency based on blockchain\ntechnology which makes it nearly impossible to counterfeit or double-spend.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/cryptocurrency"
+      }
+    ]
+  },
+  {
+    "apiName": "Cupon-de-pagos",
+    "name": "Cupon de Pagos",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Cupon de Pagos method.",
+    "description": "The Cupon de Pagos method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Cupon-de-pagos"
+      }
+    ]
+  },
+  {
+    "apiName": "CyberSource",
+    "name": "CyberSource",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "CyberSource ia an e-commerce credit card payment system that allows customers\nto process online payments.\n",
+    "description": "CyberSource ia an e-commerce credit card payment system that allows customers\nto process online payments.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/CyberSource"
+      }
+    ]
+  },
+  {
+    "apiName": "Dimoco-pay-smart",
+    "name": "Dimoco pay smart",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Dimoco pay smart method.\n",
+    "description": "The Dimoco pay smart method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Dimoco-pay-smart"
+      }
+    ]
+  },
+  {
+    "apiName": "Directa24Card",
+    "name": "Directa24Card",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Directa24Card.svg",
+    "portraitLogo": null,
+    "summary": "Directa24 was formerly known as Astropay and specialized in Latin American local payment methods. They have expanded to include other emerging markets.\n",
+    "description": "Directa24 was formerly known as Astropay and specialized in Latin American local payment methods. They have expanded to include other emerging markets.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Directa24Card"
+      }
+    ]
+  },
+  {
+    "apiName": "domestic-cards",
+    "name": "Domestic Cards",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Domestic Cards method.",
+    "description": "The Domestic Cards method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/domestic-cards"
+      }
+    ]
+  },
+  {
+    "apiName": "EPS",
+    "name": "EPS",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/EPS.svg",
+    "portraitLogo": null,
+    "summary": "EPS is an online transfer payment method accepted by 80% of all online\nbusinesses in Austria.\n",
+    "description": "EPS is an online transfer payment method accepted by 80% of all online\nbusinesses in Austria.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/EPS"
+      }
+    ]
+  },
+  {
+    "apiName": "e-wallet",
+    "name": "eWallet",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "An e-Wallet is an electronic system that securely stores payment information\nthat allows for quick and easy digital transactions.\n",
+    "description": "An e-Wallet is an electronic system that securely stores payment information\nthat allows for quick and easy digital transactions.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/e-wallet"
+      }
+    ]
+  },
+  {
+    "apiName": "eZeeWallet",
+    "name": "eZeeWallet",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "eZeeWallet is a digital wallet that offers secure, customer-focused payment services that make paying\nand getting paid simple and hassle-free.\n",
+    "description": "eZeeWallet is a digital wallet that offers secure, customer-focused payment services that make paying\nand getting paid simple and hassle-free.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/eZeeWallet"
+      }
+    ]
+  },
+  {
+    "apiName": "echeck",
+    "name": "eCheck",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Echeck.svg",
+    "portraitLogo": null,
+    "summary": "An eCheck is a digital version of a traditional paper check.",
+    "description": "An eCheck is a digital version of a traditional paper check.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/echeck"
+      }
+    ]
+  },
+  {
+    "apiName": "ecoPayz",
+    "name": "ecoPayz",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "ecoPAYZ is one of the oldest e-wallets and allows its customers to receive,\nsend, and spend money worldwide all from one online account.\n",
+    "description": "ecoPAYZ is one of the oldest e-wallets and allows its customers to receive,\nsend, and spend money worldwide all from one online account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ecoPayz"
+      }
+    ]
+  },
+  {
+    "apiName": "ecoVoucher",
+    "name": "ecoVoucher",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Ecovoucher.svg",
+    "portraitLogo": null,
+    "summary": "ecoVoucher is offered by ecoPayz and is a prepaid payment method that allows\ncustomers to pay online securely.\n",
+    "description": "ecoVoucher is offered by ecoPayz and is a prepaid payment method that allows\ncustomers to pay online securely.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ecoVoucher"
+      }
+    ]
+  },
+  {
+    "apiName": "Efecty",
+    "name": "Efecty",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Efecty is a Colombian-based offline cash payment voucher option. It is one of\nthe most popular payment methods in Colombia to pay utility bills and online\npurchases.\n",
+    "description": "Efecty is a Colombian-based offline cash payment voucher option. It is one of\nthe most popular payment methods in Colombia to pay utility bills and online\npurchases.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Efecty"
+      }
+    ]
+  },
+  {
+    "apiName": "Ethereum",
+    "name": "Ethereum",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Ethereum is a decentralizaed blockchain platform that offers open access to\ndigital money and data-friendly services. It is the second largest\ncryptocurrency in the market after Bitcoin.\n",
+    "description": "Ethereum is a decentralizaed blockchain platform that offers open access to\ndigital money and data-friendly services. It is the second largest\ncryptocurrency in the market after Bitcoin.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Ethereum"
+      }
+    ]
+  },
+  {
+    "apiName": "FasterPay",
+    "name": "FasterPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The FasterPay method\n",
+    "description": "The FasterPay method\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/FasterPay"
+      }
+    ]
+  },
+  {
+    "apiName": "Flexepin",
+    "name": "Flexepin",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Flexepin.svg",
+    "portraitLogo": null,
+    "summary": "Flexepin is owned and operated by FlexeWallet and their vouchers are issued\nunder an Australian Financial Services License.\n",
+    "description": "Flexepin is owned and operated by FlexeWallet and their vouchers are issued\nunder an Australian Financial Services License.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Flexepin"
+      }
+    ]
+  },
+  {
+    "apiName": "Giropay",
+    "name": "Giropay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Giropay is an online payment method offered by more than 1,500 banks in\nGermany. Giropay uses real-time bank transfers and thier payments are 100%\nguaranteed.\n",
+    "description": "Giropay is an online payment method offered by more than 1,500 banks in\nGermany. Giropay uses real-time bank transfers and thier payments are 100%\nguaranteed.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Giropay"
+      }
+    ]
+  },
+  {
+    "apiName": "Google Pay",
+    "name": "Google Pay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Google Pay enables customers to pay with any payment method that is saved to\ntheir Google account.\n",
+    "description": "Google Pay enables customers to pay with any payment method that is saved to\ntheir Google account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Google%20Pay"
+      }
+    ]
+  },
+  {
+    "apiName": "Gpaysafe",
+    "name": "Gpaysafe",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Gpaysafe allows merchants to do business globally with a single API solution.",
+    "description": "Gpaysafe allows merchants to do business globally with a single API solution.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Gpaysafe"
+      }
+    ]
+  },
+  {
+    "apiName": "iDEAL",
+    "name": "iDEAL",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/iDEAL.svg",
+    "summary": "iDEAL allows customers to complete transactions online using their bank\ncredentials. It is the most popular payment method in the Netherlands with a\nuse of nearly 55%.\n",
+    "description": "iDEAL allows customers to complete transactions online using their bank\ncredentials. It is the most popular payment method in the Netherlands with a\nuse of nearly 55%.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/iDEAL"
+      }
+    ]
+  },
+  {
+    "apiName": "iDebit",
+    "name": "iDebit",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "iDebit is an online banking based payment method made available to consumers\nin Canada, connecting them to secure, real-time payments without a credit\ncard.\n",
+    "description": "iDebit is an online banking based payment method made available to consumers\nin Canada, connecting them to secure, real-time payments without a credit\ncard.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/iDebit"
+      }
+    ]
+  },
+  {
+    "apiName": "ING-homepay",
+    "name": "ING Homepay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "ING Homepay is an online payment method that allows payments over online\nbanking with the Belgian ING branch.\n",
+    "description": "ING Homepay is an online payment method that allows payments over online\nbanking with the Belgian ING branch.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ING-homepay"
+      }
+    ]
+  },
+  {
+    "apiName": "INOVAPAY-pin",
+    "name": "INOVAPAY Pin",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The INOVAPAY Pin method.",
+    "description": "The INOVAPAY Pin method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/INOVAPAY-pin"
+      }
+    ]
+  },
+  {
+    "apiName": "INOVAPAY-wallet",
+    "name": "INOVAPAY Wallet",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "INOVAPAY Wallet is an international e-money transfer service used to transfer\nmoney to and from merchants.\n",
+    "description": "INOVAPAY Wallet is an international e-money transfer service used to transfer\nmoney to and from merchants.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/INOVAPAY-wallet"
+      }
+    ]
+  },
+  {
+    "apiName": "InstaDebit",
+    "name": "InsataDebit",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Instadebit.svg",
+    "portraitLogo": null,
+    "summary": "The InstaDebit method.\n",
+    "description": "The InstaDebit method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/InstaDebit"
+      }
+    ]
+  },
+  {
+    "apiName": "instant-bank-transfer",
+    "name": "Instant Bank Transfer",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Instant bank transfers allow consumers to make payments instantly. Both\nconsumers and merchants can receive and send funds immediately.\n",
+    "description": "Instant bank transfers allow consumers to make payments instantly. Both\nconsumers and merchants can receive and send funds immediately.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/instant-bank-transfer"
+      }
+    ]
+  },
+  {
+    "apiName": "Instant Banking",
+    "name": "Instant Banking",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Instant Banking enables consumers to make payments to merchants using funds from their bank account.\n",
+    "description": "Instant Banking enables consumers to make payments to merchants using funds from their bank account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Instant%20Banking"
+      }
+    ]
+  },
+  {
+    "apiName": "InstantPayments",
+    "name": "Instant Payments",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Instant Payments enables consumers to make payments to merchants using funds from their bank account.\n",
+    "description": "Instant Payments enables consumers to make payments to merchants using funds from their bank account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/InstantPayments"
+      }
+    ]
+  },
+  {
+    "apiName": "Interac",
+    "name": "Interac",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Interac.svg",
+    "summary": "Interac is a Canadian debit card system that allows funds to be sent via its\ne-Transfer service.\n",
+    "description": "Interac is a Canadian debit card system that allows funds to be sent via its\ne-Transfer service.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Interac"
+      }
+    ]
+  },
+  {
+    "apiName": "Interac-eTransfer",
+    "name": "Interac eTransfer",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Interac.svg",
+    "summary": "Interac eTransfer is a Canadian interbank network that allows merchants,\nfinancial institutions, and consumers to exchange electronic funds.\n",
+    "description": "Interac eTransfer is a Canadian interbank network that allows merchants,\nfinancial institutions, and consumers to exchange electronic funds.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Interac-eTransfer"
+      }
+    ]
+  },
+  {
+    "apiName": "Interac-express-connect",
+    "name": "Interac Express Connect",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Interac.svg",
+    "summary": "Interac Express Connect is an e-wallet that allows payments via multiple\nchannels including paypal, Interac e-transfer, and credit cards.\n",
+    "description": "Interac Express Connect is an e-wallet that allows payments via multiple\nchannels including paypal, Interac e-transfer, and credit cards.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Interac-express-connect"
+      }
+    ]
+  },
+  {
+    "apiName": "Interac-online",
+    "name": "Interac Online",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Interac.svg",
+    "summary": "Interac Online is a payment option that enables consumers to shop online and\npay for goods through the RBC online banking account.\n",
+    "description": "Interac Online is a payment option that enables consumers to shop online and\npay for goods through the RBC online banking account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Interac-online"
+      }
+    ]
+  },
+  {
+    "apiName": "invoice",
+    "name": "Invoice",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "An invoice is a document issued by a merchant to a consumer relating to a sale\ntransaction and can inform products, prices, quantities, or services.\n",
+    "description": "An invoice is a document issued by a merchant to a consumer relating to a sale\ntransaction and can inform products, prices, quantities, or services.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/invoice"
+      }
+    ]
+  },
+  {
+    "apiName": "Jeton",
+    "name": "Jeton",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Jeton is a digital wallet that allows users to exchange money, make secure\nmoney transfers and purchases online.\n",
+    "description": "Jeton is a digital wallet that allows users to exchange money, make secure\nmoney transfers and purchases online.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Jeton"
+      }
+    ]
+  },
+  {
+    "apiName": "jpay",
+    "name": "Jpay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Jpay method.",
+    "description": "The Jpay method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/jpay"
+      }
+    ]
+  },
+  {
+    "apiName": "KNET",
+    "name": "KNET",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The KNET method.\n",
+    "description": "The KNET method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/KNET"
+      }
+    ]
+  },
+  {
+    "apiName": "KakaoPay",
+    "name": "KakaoPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "KakaoPay is a mobile payment and digital wallet service by Kakao and based in South Korea. It enables users make mobile payments and online transactions.\n",
+    "description": "KakaoPay is a mobile payment and digital wallet service by Kakao and based in South Korea. It enables users make mobile payments and online transactions.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/KakaoPay"
+      }
+    ]
+  },
+  {
+    "apiName": "Khelocard",
+    "name": "Khelocard",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Khelo Card is a virtual prepaid card that allows for deposits and withdrawals\nand is accepted at partnered online sites around the world.\n",
+    "description": "Khelo Card is a virtual prepaid card that allows for deposits and withdrawals\nand is accepted at partnered online sites around the world.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Khelocard"
+      }
+    ]
+  },
+  {
+    "apiName": "Klarna",
+    "name": "Klarna",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Klarna offers flexible payment plans that provides payment solutions for 85\nmillion customers and over 200,000 merchants across 19 markets.\n",
+    "description": "Klarna offers flexible payment plans that provides payment solutions for 85\nmillion customers and over 200,000 merchants across 19 markets.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Klarna"
+      }
+    ]
+  },
+  {
+    "apiName": "LPG-online",
+    "name": "LPG Online",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Latam Payment Group (LPG Online) specializes in the development of\ntechnological solutions for the operation of eCommerce in the Latin American\nmarket.\n",
+    "description": "Latam Payment Group (LPG Online) specializes in the development of\ntechnological solutions for the operation of eCommerce in the Latin American\nmarket.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/LPG-online"
+      }
+    ]
+  },
+  {
+    "apiName": "LPG-payment-card",
+    "name": "LPG Payment Card",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The LPG Payment Card method.",
+    "description": "The LPG Payment Card method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/LPG-payment-card"
+      }
+    ]
+  },
+  {
+    "apiName": "Litecoin",
+    "name": "Litecoin",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Litecoin is a peer-to-peer cryptocurrency and open-source software project.",
+    "description": "Litecoin is a peer-to-peer cryptocurrency and open-source software project.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Litecoin"
+      }
+    ]
+  },
+  {
+    "apiName": "MTS",
+    "name": "MTS",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "MTS allows users to make payments and money transfers from their e-wallet\nthrough a smartphone or MTS website.\n",
+    "description": "MTS allows users to make payments and money transfers from their e-wallet\nthrough a smartphone or MTS website.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MTS"
+      }
+    ]
+  },
+  {
+    "apiName": "Matrix",
+    "name": "Matrix",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Matrix method.",
+    "description": "The Matrix method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Matrix"
+      }
+    ]
+  },
+  {
+    "apiName": "MaxiCash",
+    "name": "MaxiCash",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The MaxiCash method.",
+    "description": "The MaxiCash method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MaxiCash"
+      }
+    ]
+  },
+  {
+    "apiName": "Megafon",
+    "name": "Megafon",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Megafon can be used to pay like a normal bank card online and in person at\nphysical locations.\n",
+    "description": "Megafon can be used to pay like a normal bank card online and in person at\nphysical locations.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Megafon"
+      }
+    ]
+  },
+  {
+    "apiName": "MercadoPago",
+    "name": "MercadoPago",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/MercadoPago.svg",
+    "portraitLogo": null,
+    "summary": "Mercado hosts the largest online commerce and payments ecosystem in Latin America. They are present in 18 countries including: Argentina, Brazil, Mexico, Colombia, Chile, Venezuela and Peru. [www.mercadopago.com](https://www.mercadopago.com/)\n",
+    "description": "Mercado hosts the largest online commerce and payments ecosystem in Latin America. They are present in 18 countries including: Argentina, Brazil, Mexico, Colombia, Chile, Venezuela and Peru. [www.mercadopago.com](https://www.mercadopago.com/)\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MercadoPago"
+      }
+    ]
+  },
+  {
+    "apiName": "MiFinity-eWallet",
+    "name": "MiFinity-eWallet",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "MiFinity eWallet allows users to send money from their account directly to a\nrecipient's bank account.\n",
+    "description": "MiFinity eWallet allows users to send money from their account directly to a\nrecipient's bank account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MiFinity-eWallet"
+      }
+    ]
+  },
+  {
+    "apiName": "miscellaneous",
+    "name": "Miscellaneous",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The miscellaneous method.\n",
+    "description": "The miscellaneous method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/miscellaneous"
+      }
+    ]
+  },
+  {
+    "apiName": "MobilePay",
+    "name": "MobilePay",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/MobilePay.svg",
+    "portraitLogo": null,
+    "summary": "Fast, easy payments are handled with a simple swipe, and all that’s needed to make them is a phone number.\n",
+    "description": "Fast, easy payments are handled with a simple swipe, and all that’s needed to make them is a phone number.\n",
+    "countries": {
+      "mode": "subset",
+      "values": ["DK"]
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MobilePay"
+      }
+    ]
+  },
+  {
+    "apiName": "MuchBetter",
+    "name": "MuchBetter",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Muchbetter.svg",
+    "portraitLogo": null,
+    "summary": "MuchBetter is a payment application with free transfers and multiple contact\npayment devices.\n",
+    "description": "MuchBetter is a payment application with free transfers and multiple contact\npayment devices.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MuchBetter"
+      }
+    ]
+  },
+  {
+    "apiName": "Multibanco",
+    "name": "Multibanco",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Multibanco method.\n",
+    "description": "The Multibanco method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Multibanco"
+      }
+    ]
+  },
+  {
+    "apiName": "MyFatoorah",
+    "name": "MyFatoorah",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The MyFatoorah method.",
+    "description": "The MyFatoorah method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/MyFatoorah"
+      }
+    ]
+  },
+  {
+    "apiName": "Neosurf",
+    "name": "Neosurf",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Neosurf vouchers make online payments possible for thoe without bank accounts\nor credit cards.\n",
+    "description": "Neosurf vouchers make online payments possible for thoe without bank accounts\nor credit cards.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Neosurf"
+      }
+    ]
+  },
+  {
+    "apiName": "Netbanking",
+    "name": "Netbanking",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Netbanking allows merchants to accept UPI transactions in India.",
+    "description": "Netbanking allows merchants to accept UPI transactions in India.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Netbanking"
+      }
+    ]
+  },
+  {
+    "apiName": "Neteller",
+    "name": "Neteller",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Neteller.svg",
+    "portraitLogo": null,
+    "summary": "Neteller offers payments or withdrawals via bank transfer, member wires, money\ntransfers, and merchant sites.\n",
+    "description": "Neteller offers payments or withdrawals via bank transfer, member wires, money\ntransfers, and merchant sites.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Neteller"
+      }
+    ]
+  },
+  {
+    "apiName": "Nordea-Solo",
+    "name": "Nordea Solo",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Nordea Solo method.",
+    "description": "The Nordea Solo method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Nordea-Solo"
+      }
+    ]
+  },
+  {
+    "apiName": "NordikCoin",
+    "name": "NordikCoin",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/NordikCoin.svg",
+    "summary": "NordikCoin customers can buy Bitcoin in under 5 minutes.",
+    "description": "NordikCoin is a crypto currency exchange that specializes in Bitcoin.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/NordikCoin"
+      }
+    ]
+  },
+  {
+    "apiName": "OXXO",
+    "name": "OXXO",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/OXXO.svg",
+    "portraitLogo": null,
+    "summary": "OXXO is a Mexican convenience store chain with thousands of locations across\nLatin America. OXXO enables customers to pay bills and online purchases with\ncash.\n",
+    "description": "OXXO is a Mexican convenience store chain with thousands of locations across\nLatin America. OXXO enables customers to pay bills and online purchases with\ncash.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/OXXO"
+      }
+    ]
+  },
+  {
+    "apiName": "OchaPay",
+    "name": "OchaPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The OchaPay method.",
+    "description": "The OchaPay method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/OchaPay"
+      }
+    ]
+  },
+  {
+    "apiName": "online-bank-transfer",
+    "name": "Online Bank Transfer",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "An online bank transfer is an electronic funds transfer of money from one bank\naccount to another.\n",
+    "description": "An online bank transfer is an electronic funds transfer of money from one bank\naccount to another.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/online-bank-transfer"
+      }
+    ]
+  },
+  {
+    "apiName": "Onlineueberweisen",
+    "name": "OnlineUeberweisen",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Onlineueberweisen.svg",
+    "portraitLogo": null,
+    "summary": "OnlineUeberweisen is an online banking ePayment company located in Munich,\nGermany.\n",
+    "description": "OnlineUeberweisen is an online banking ePayment company located in Munich,\nGermany.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Onlineueberweisen"
+      }
+    ]
+  },
+  {
+    "apiName": "oriental-wallet",
+    "name": "Oriental Wallet",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Oriental Wallet method.",
+    "description": "The Oriental Wallet method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/oriental-wallet"
+      }
+    ]
+  },
+  {
+    "apiName": "P24",
+    "name": "P24",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Przelewy24 (P24) is a payment method in Poland that allows the transfer of funds\nbetween more than 90,000 businesses and Polish banks.\n",
+    "description": "Przelewy24 (P24) is a payment method in Poland that allows the transfer of funds\nbetween more than 90,000 businesses and Polish banks.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/P24"
+      }
+    ]
+  },
+  {
+    "apiName": "PIX",
+    "name": "PIX",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "PIX is a new payment method in Brazil for instant bank transfers and is\noperated by Brazilian banks, digital accounts, and wallets.\n",
+    "description": "PIX is a new payment method in Brazil for instant bank transfers and is\noperated by Brazilian banks, digital accounts, and wallets.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PIX"
+      }
+    ]
+  },
+  {
+    "apiName": "POLi",
+    "name": "POLi",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The POLi method.",
+    "description": "The POLi method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/POLi"
+      }
+    ]
+  },
+  {
+    "apiName": "Pagadito",
+    "name": "Pagadito",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Pagadito method.",
+    "description": "The Pagadito method.",
+    "countries": {
+      "mode": "subset",
+      "values": ["BZ", "CR", "DO", "GT", "HN", "NI", "PA", "PR", "SV", "US"]
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Pagadito"
+      }
+    ]
+  },
+  {
+    "apiName": "PagoEffectivo",
+    "name": "PagoEffectivo",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The PagoEffectivo method.",
+    "description": "The PagoEffectivo method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PagoEffectivo"
+      }
+    ]
+  },
+  {
+    "apiName": "Pagsmile-deposit-express",
+    "name": "Pagsmile Deposit Express",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Pagsmile Deposit Express is a money transfer system. After an online purchase,\nthe client can pay at a bank, ATM, or via internet banking.\n",
+    "description": "Pagsmile Deposit Express is a money transfer system. After an online purchase,\nthe client can pay at a bank, ATM, or via internet banking.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Pagsmile-deposit-express"
+      }
+    ]
+  },
+  {
+    "apiName": "Pagsmile-lottery",
+    "name": "Pagsmile Lottery",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Pagsmile Lottery offers betting services as well as banking services such as\nwithdrawals, deposits, and bank checking.\n",
+    "description": "Pagsmile Lottery offers betting services as well as banking services such as\nwithdrawals, deposits, and bank checking.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Pagsmile-lottery"
+      }
+    ]
+  },
+  {
+    "apiName": "Pay4Fun",
+    "name": "Pay4Fun",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Pay4Fun is a prepaid e-wallet that is connected to a bank account and can be\nused for deposits and withdrawls.\n",
+    "description": "Pay4Fun is a prepaid e-wallet that is connected to a bank account and can be\nused for deposits and withdrawls.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Pay4Fun"
+      }
+    ]
+  },
+  {
+    "apiName": "PayCash",
+    "name": "PayCash",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "PayCash is an electronic payment platformfor making anonymous internet\npurchases with cash via kiosks.\n",
+    "description": "PayCash is an electronic payment platformfor making anonymous internet\npurchases with cash via kiosks.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PayCash"
+      }
+    ]
+  },
+  {
+    "apiName": "PayRedeem",
+    "name": "PayRedeem",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/PayRedeem.svg",
+    "portraitLogo": null,
+    "summary": "PayRedeem eCards can be purchased online with credit/debit card, wire transfer, cryptocurrency, and over 200 alternative payment methods.\n",
+    "description": "PayRedeem eCards can be purchased online with credit/debit card, wire transfer, cryptocurrency, and over 200 alternative payment methods.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PayRedeem"
+      }
+    ]
+  },
+  {
+    "apiName": "PayTabs",
+    "name": "PayTabs",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The PayTabs method.",
+    "description": "The PayTabs method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PayTabs"
+      }
+    ]
+  },
+  {
+    "apiName": "PayU",
+    "name": "PayU",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The PayU method.",
+    "description": "The PayU method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PayU"
+      }
+    ]
+  },
+  {
+    "apiName": "PayULatam",
+    "name": "PayULatam",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The PayULatam method.",
+    "description": "The PayULatam method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PayULatam"
+      }
+    ]
+  },
+  {
+    "apiName": "Payco",
+    "name": "Payco",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Payco is one of the most popular forms of payment in South Korea and offers your shoppers convenience and familiarity when shopping online.\n",
+    "description": "Payco is one of the most popular forms of payment in South Korea and offers your shoppers convenience and familiarity when shopping online.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Payco"
+      }
+    ]
+  },
+  {
+    "apiName": "Payeer",
+    "name": "Payeer",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Payeer is an e-wallet designed to manage cryptocurrencies and fiat currencies\nwith a built-in payment exchange for systems such as MasterCard, VISA, or\nPaypal.\n",
+    "description": "Payeer is an e-wallet designed to manage cryptocurrencies and fiat currencies\nwith a built-in payment exchange for systems such as MasterCard, VISA, or\nPaypal.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Payeer"
+      }
+    ]
+  },
+  {
+    "apiName": "PaymentAsia-crypto",
+    "name": "PaymentAsia-crypto",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The PaymentAsia-crypto method.",
+    "description": "The PaymentAsia-crypto method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PaymentAsia-crypto"
+      }
+    ]
+  },
+  {
+    "apiName": "payment-card",
+    "name": "Payment Card",
+    "landscapeLogo": null,
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/PaymentCard.svg",
+    "summary": "Payment cards are physical cards used for cashless payments and are issued by\nfinancial institiutions, such as banks, to a customer.\n",
+    "description": "Payment cards are physical cards used for cashless payments and are issued by\nfinancial institiutions, such as banks, to a customer.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/payment-card"
+      }
+    ]
+  },
+  {
+    "apiName": "Paymero-QR",
+    "name": "Paymero-QR",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Paymero-QR helps online merchants to accept alternative methods such as\ncontactless payments through a QR code.\n",
+    "description": "Paymero-QR helps online merchants to accept alternative methods such as\ncontactless payments through a QR code.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Paymero-QR"
+      }
+    ]
+  },
+  {
+    "apiName": "Paymero",
+    "name": "Paymero",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Paymero is an instant bank transfer that allows customers to make UnionPay\nbank transfers to merchants.\n",
+    "description": "Paymero is an instant bank transfer that allows customers to make UnionPay\nbank transfers to merchants.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Paymero"
+      }
+    ]
+  },
+  {
+    "apiName": "paypal",
+    "name": "Paypal",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Paypal.svg",
+    "portraitLogo": "https://app.rebilly.com/static/payment-methods/portrait/Paypal.svg",
+    "summary": "Paypal is currently one of the most popular online payment processors, with\nover 300 million account holders.\n",
+    "description": "Paypal is currently one of the most popular online payment processors, with\nover 300 million account holders.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/paypal"
+      }
+    ]
+  },
+  {
+    "apiName": "Paysafecard",
+    "name": "Paysafecard",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Paysafecard is a closed loop gift card that allows users to pay safely online.",
+    "description": "Paysafecard is a closed loop gift card that allows users to pay safely online.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Paysafecard"
+      }
+    ]
+  },
+  {
+    "apiName": "Paysafecash",
+    "name": "Paysafecash",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Paysafecash is an online payment method that allows users to make secure digital payments using cash.",
+    "description": "Paysafecash is an online payment method that allows users to make secure digital payments using cash.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Paysafecash"
+      }
+    ]
+  },
+  {
+    "apiName": "Perfect-money",
+    "name": "Perfect Money",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Perfect oney allows users to make instant payments and money transfers\nsecurely online through an online portal.\n",
+    "description": "Perfect oney allows users to make instant payments and money transfers\nsecurely online through an online portal.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Perfect-money"
+      }
+    ]
+  },
+  {
+    "apiName": "phone",
+    "name": "Phone",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "A phone is a telecommunications device that allows users to conduct a\nconversation.\n",
+    "description": "A phone is a telecommunications device that allows users to conduct a\nconversation.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/phone"
+      }
+    ]
+  },
+  {
+    "apiName": "PhonePe",
+    "name": "PhonePe",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "PhonePe is a digital wallet and online payments application that allows users\nto make instant money transfers with UPI.\n",
+    "description": "PhonePe is a digital wallet and online payments application that allows users\nto make instant money transfers with UPI.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PhonePe"
+      }
+    ]
+  },
+  {
+    "apiName": "Piastrix",
+    "name": "Piastrix",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Piastrix is a Russian payment method that allows merchants to accept credit\ncard purchases via e-wallet.\n",
+    "description": "Piastrix is a Russian payment method that allows merchants to accept credit\ncard purchases via e-wallet.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Piastrix"
+      }
+    ]
+  },
+  {
+    "apiName": "PinPay",
+    "name": "PinPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The PinPay method.",
+    "description": "The PinPay method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/PinPay"
+      }
+    ]
+  },
+  {
+    "apiName": "QIWI",
+    "name": "QIWI",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "QIWI is an e-wallet that allows users to transfer money, receive payments, and\nhas over 149,000 kiosks and terminals.\n",
+    "description": "QIWI is an e-wallet that allows users to transfer money, receive payments, and\nhas over 149,000 kiosks and terminals.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/QIWI"
+      }
+    ]
+  },
+  {
+    "apiName": "QPay",
+    "name": "QPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The QPay method.\n",
+    "description": "The QPay method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/QPay"
+      }
+    ]
+  },
+  {
+    "apiName": "QQPay",
+    "name": "QQPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "QQPay is an e-wallet that allows users to pay for online services quickly an\nsecurely.\n",
+    "description": "QQPay is an e-wallet that allows users to pay for online services quickly an\nsecurely.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/QQPay"
+      }
+    ]
+  },
+  {
+    "apiName": "rapyd-checkout",
+    "name": "Rapyd Checkout",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Rapyd Checkout is a platform that allows businesses to accept payment in the\nform of instant UPI payments from bank accounts, e-wallets, and credit cards.\n",
+    "description": "Rapyd Checkout is a platform that allows businesses to accept payment in the\nform of instant UPI payments from bank accounts, e-wallets, and credit cards.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/rapyd-checkout"
+      }
+    ]
+  },
+  {
+    "apiName": "Resurs",
+    "name": "Resurs",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Resurs method.",
+    "description": "The Resurs method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Resurs"
+      }
+    ]
+  },
+  {
+    "apiName": "SEPA",
+    "name": "SEPA",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "SEPA simplifies payments within the European Union and facilitates the direct\ndebiting of every Euro-denominated bank account.\n",
+    "description": "SEPA simplifies payments within the European Union and facilitates the direct\ndebiting of every Euro-denominated bank account.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/SEPA"
+      }
+    ]
+  },
+  {
+    "apiName": "SMSVoucher",
+    "name": "SMSVoucher",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "SMS Voucher is a mobile voucher that can be used to transfer funds via a\nmobile phone.\n",
+    "description": "SMS Voucher is a mobile voucher that can be used to transfer funds via a\nmobile phone.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/SMSVoucher"
+      }
+    ]
+  },
+  {
+    "apiName": "SPEI",
+    "name": "SPEI",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/spei.svg",
+    "portraitLogo": null,
+    "summary": "SPEI allows its customers to send and receive interbank electronic\ntransfers and obtain real-time payment confirmation in seconds.\n",
+    "description": "SPEI allows its customers to send and receive interbank electronic\ntransfers and obtain real-time payment confirmation in seconds.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/SPEI"
+      }
+    ]
+  },
+  {
+    "apiName": "SafetyPay",
+    "name": "SafetyPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "SafetyPay operates the largest network of banks and cash collection points in Latin America, the result of 10+ years effort, with presence in 16 countries consolidated with 380 bank partners and 180,000 collection points.\n",
+    "description": "SafetyPay operates the largest network of banks and cash collection points in Latin America, the result of 10+ years effort, with presence in 16 countries consolidated with 380 bank partners and 180,000 collection points.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/SafetyPay"
+      }
+    ]
+  },
+  {
+    "apiName": "Samsung Pay",
+    "name": "Samsung Pay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Samsung Pay is a mobile payment and digital wallet service by Samsung Electronics that enables users to make payments using\ncompatible phones and other Samsung-produced devices.\n",
+    "description": "Samsung Pay is a mobile payment and digital wallet service by Samsung Electronics that enables users to make payments using\ncompatible phones and other Samsung-produced devices.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": false,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Samsung%20Pay"
+      }
+    ]
+  },
+  {
+    "apiName": "Siirto",
+    "name": "Siirto",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Siirto allows users to transfer money easily to other Siirto users by using\ntheir phone numbers.\n",
+    "description": "Siirto allows users to transfer money easily to other Siirto users by using\ntheir phone numbers.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Siirto"
+      }
+    ]
+  },
+  {
+    "apiName": "Skrill",
+    "name": "Skrill",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Skrill.svg",
+    "portraitLogo": null,
+    "summary": "Skrill is a digital wallet for money transfers and online payments that offers\na safe way to pay across different platforms.\n",
+    "description": "Skrill is a digital wallet for money transfers and online payments that offers\na safe way to pay across different platforms.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Skrill"
+      }
+    ]
+  },
+  {
+    "apiName": "Skrill Rapid Transfer",
+    "name": "Skrill Rapid Transfer",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Skrill Rapid Transfer allows users to deposit money into their Skrill wallet\nor to pay online directly.\n",
+    "description": "Skrill Rapid Transfer allows users to deposit money into their Skrill wallet\nor to pay online directly.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Skrill%20Rapid%20Transfer"
+      }
+    ]
+  },
+  {
+    "apiName": "Sofort",
+    "name": "Sofort",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Sofort.svg",
+    "portraitLogo": null,
+    "summary": "Sofort is a payment method acquired by Klarna that redirects customers to\ninitiate a transfer with their bank.\n",
+    "description": "Sofort is a payment method acquired by Klarna that redirects customers to\ninitiate a transfer with their bank.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Sofort"
+      }
+    ]
+  },
+  {
+    "apiName": "SparkPay",
+    "name": "SparkPay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The SparkPay method.",
+    "description": "The SparkPay method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/SparkPay"
+      }
+    ]
+  },
+  {
+    "apiName": "swift-dbt",
+    "name": "SWIFT Debit",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The SWIFT Debit method.",
+    "description": "The SWIFT Debit method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/swift-dbt"
+      }
+    ]
+  },
+  {
+    "apiName": "TWINT",
+    "name": "TWINT",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/TWINT.svg",
+    "portraitLogo": null,
+    "summary": "TWINT allows customers to make convenient and secure payments via a smartpone.",
+    "description": "TWINT allows customers to make convenient and secure payments via a smartpone.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/TWINT"
+      }
+    ]
+  },
+  {
+    "apiName": "Tele2",
+    "name": "Tele2",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Tele2 is an intergrated e-wallet that allows users to instantly receive\ndigital payments frmi TalkBank.\n",
+    "description": "Tele2 is an intergrated e-wallet that allows users to instantly receive\ndigital payments frmi TalkBank.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Tele2"
+      }
+    ]
+  },
+  {
+    "apiName": "Telr",
+    "name": "Telr",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Telr method.",
+    "description": "The Telr method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Telr"
+      }
+    ]
+  },
+  {
+    "apiName": "Terminaly-RF",
+    "name": "Terminaly RF",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Terminaly RF method.",
+    "description": "The Terminaly RF method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Terminaly-RF"
+      }
+    ]
+  },
+  {
+    "apiName": "Tether",
+    "name": "Tether",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Tether is a cryptocurrency with tokens issued by Tether Limited.",
+    "description": "Tether is a cryptocurrency with tokens issued by Tether Limited.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Tether"
+      }
+    ]
+  },
+  {
+    "apiName": "ToditoCash-card",
+    "name": "ToditoCash Card",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "ToditoCash Card is a prepaid card service used in Mexico that allows customers\nto use the card for purchasing goods and services online.\n",
+    "description": "ToditoCash Card is a prepaid card service used in Mexico that allows customers\nto use the card for purchasing goods and services online.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ToditoCash-card"
+      }
+    ]
+  },
+  {
+    "apiName": "Trustly",
+    "name": "Trustly",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Trustly.svg",
+    "portraitLogo": null,
+    "summary": "Trustly an open banking payment method that allows customers to shop and pay\nfrom their online bank account, without the use of a card or app.\n",
+    "description": "Trustly an open banking payment method that allows customers to shop and pay\nfrom their online bank account, without the use of a card or app.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Trustly"
+      }
+    ]
+  },
+  {
+    "apiName": "Tupay",
+    "name": "Tupay",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Tupay.svg",
+    "portraitLogo": null,
+    "summary": "Tupay is a one-stop-shop payment platform. It enables you to make everyday purchases in an easy, convenient, and secure manner through your favorite wallets.\nPay seamlessly, in-app, from anywhere your money is. Whether it is mobile money, a card, or bank without the need to transfer to various wallets.\n",
+    "description": "Tupay is a one-stop-shop payment platform. It enables you to make everyday purchases in an easy, convenient, and secure manner through your favorite wallets.\nPay seamlessly, in-app, from anywhere your money is. Whether it is mobile money, a card, or bank without the need to transfer to various wallets.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Tupay"
+      }
+    ]
+  },
+  {
+    "apiName": "UPI",
+    "name": "UPI",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Unified Payments Interface (UPI) is a payment system that powers multiple bank\naccounts into a single mobile application.\n",
+    "description": "Unified Payments Interface (UPI) is a payment system that powers multiple bank\naccounts into a single mobile application.\n",
+    "countries": {
+      "mode": "subset",
+      "values": ["IN"]
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/UPI"
+      }
+    ]
+  },
+  {
+    "apiName": "UPayCard",
+    "name": "UPayCard",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The UPayCard method.",
+    "description": "The UPayCard method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/UPayCard"
+      }
+    ]
+  },
+  {
+    "apiName": "USD-coin",
+    "name": "USD coin",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The USD coin (USDC ERC20) method.\n",
+    "description": "The USD coin (USDC ERC20) method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/USD-coin"
+      }
+    ]
+  },
+  {
+    "apiName": "UniCrypt",
+    "name": "UniCrypt",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The UniCrypt method.",
+    "description": "The UniCrypt method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/UniCrypt"
+      }
+    ]
+  },
+  {
+    "apiName": "VCreditos",
+    "name": "VCreditos",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "VCreditos is an e-wallet for online transfers and withdrawals. The customer\ncan acquire exclusive advantages, points, and benefits.\n",
+    "description": "VCreditos is an e-wallet for online transfers and withdrawals. The customer\ncan acquire exclusive advantages, points, and benefits.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/VCreditos"
+      }
+    ]
+  },
+  {
+    "apiName": "VegaWallet",
+    "name": "VegaWallet",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "VegaWallet is an e-wallet that allows users to purchase, receive, send, and convert funds (points) between users and merchants.\n",
+    "description": "VegaWallet is an e-wallet that allows users to purchase, receive, send, and convert funds (points) between users and merchants.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/VegaWallet"
+      }
+    ]
+  },
+  {
+    "apiName": "VenusPoint",
+    "name": "VenusPoint",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The VenusPoint method.",
+    "description": "The VenusPoint method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/VenusPoint"
+      }
+    ]
+  },
+  {
+    "apiName": "voucher",
+    "name": "Voucher",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The voucher method.\n",
+    "description": "The voucher method.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/voucher"
+      }
+    ]
+  },
+  {
+    "apiName": "Wallet88",
+    "name": "Wallet88",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Wallet88 payment method.",
+    "description": "Wallet88 payment method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Wallet88"
+      }
+    ]
+  },
+  {
+    "apiName": "WeChat Pay",
+    "name": "WeChat Pay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "WeChat Pay is an e-Wallet within the Chinese social media app WeChat.",
+    "description": "WeChat Pay is an e-Wallet within the Chinese social media app WeChat.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/WeChat%20Pay"
+      }
+    ]
+  },
+  {
+    "apiName": "Webmoney",
+    "name": "Webmoney",
+    "landscapeLogo": "https://app.rebilly.com/static/payment-methods/landscape/Webmoney.svg",
+    "portraitLogo": null,
+    "summary": "The Webmoney method.",
+    "description": "The Webmoney method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Webmoney"
+      }
+    ]
+  },
+  {
+    "apiName": "Webpay",
+    "name": "Webpay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Webpay method.",
+    "description": "The Webpay method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Webpay"
+      }
+    ]
+  },
+  {
+    "apiName": "Webpay Card",
+    "name": "Webpay Card",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Webpay Card allows consumers in Chile to securely use their debit and credit\ncards online.\n",
+    "description": "Webpay Card allows consumers in Chile to securely use their debit and credit\ncards online.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Webpay%20Card"
+      }
+    ]
+  },
+  {
+    "apiName": "XPay-P2P",
+    "name": "XPay-P2P",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "XPAY-P2P is a payment service provider with online merchant services & payment\ngateway integration for retailers.\n",
+    "description": "XPAY-P2P is a payment service provider with online merchant services & payment\ngateway integration for retailers.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/XPay-P2P"
+      }
+    ]
+  },
+  {
+    "apiName": "XPay-QR",
+    "name": "XPay-QR",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "XPay-QR is a contactless payment method where payments are completed by\nscannign a QR code from a mobile app.\n",
+    "description": "XPay-QR is a contactless payment method where payments are completed by\nscannign a QR code from a mobile app.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/XPay-QR"
+      }
+    ]
+  },
+  {
+    "apiName": "Yandex-money",
+    "name": "Yandex Money",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Yandex Money serves both merchants and individual users as the largest\nelectronic payment service in Russia.\n",
+    "description": "Yandex Money serves both merchants and individual users as the largest\nelectronic payment service in Russia.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Yandex-money"
+      }
+    ]
+  },
+  {
+    "apiName": "Zimpler",
+    "name": "Zimpler",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The Zimpler method.",
+    "description": "The Zimpler method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Zimpler"
+      }
+    ]
+  },
+  {
+    "apiName": "Zotapay",
+    "name": "Zotapay",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "Zotapay is a global payment service provider that facilitates online payment\nprocessing solutions for emerging markets worldwide.\n",
+    "description": "Zotapay is a global payment service provider that facilitates online payment\nprocessing solutions for emerging markets worldwide.\n",
+    "countries": {
+      "mode": "all",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/Zotapay"
+      }
+    ]
+  },
+  {
+    "apiName": "ePay.bg",
+    "name": "ePay.bg",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "ePay.bg is a free mobile application allowing customers to pay and receive\nmoney quickly and safely.\n",
+    "description": "ePay.bg is a free mobile application allowing customers to pay and receive\nmoney quickly and safely.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ePay.bg"
+      }
+    ]
+  },
+  {
+    "apiName": "ePayCard",
+    "name": "ePayCard",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "ePay is a free mobile application that provides a quick and safe way to pay and receive money.\n",
+    "description": "ePay is a free mobile application that provides a quick and safe way to pay and receive money.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ePayCard"
+      }
+    ]
+  },
+  {
+    "apiName": "ezyEFT",
+    "name": "ezyEFT",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "ezyEFT is an easy to use software application that offers customers the option\nof paying by direct debit.\n",
+    "description": "ezyEFT is an easy to use software application that offers customers the option\nof paying by direct debit.\n",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/ezyEFT"
+      }
+    ]
+  },
+  {
+    "apiName": "loonie",
+    "name": "loonie",
+    "landscapeLogo": null,
+    "portraitLogo": null,
+    "summary": "The loonie method.",
+    "description": "The loonie method.",
+    "countries": {
+      "mode": "unknown",
+      "values": []
+    },
+    "storefrontEnabled": true,
+    "_links": [
+      {
+        "rel": "self",
+        "href": "https://api.rebilly.com/payment-methods/loonie"
+      }
+    ]
+  }
+]

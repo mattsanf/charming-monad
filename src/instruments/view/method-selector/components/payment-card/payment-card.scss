@@ -1,0 +1,15 @@
+.payment-card-existing-instrument {
+  margin: var(--r-space-4) 0;
+
+  .r-field-label {
+    width: 100%;
+  }
+}
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  button {
+    width: 50%;
+  }
+}

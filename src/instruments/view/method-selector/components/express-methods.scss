@@ -1,0 +1,23 @@
+.express-methods {
+  max-width: 575px;
+  margin: 0 auto;
+  .rebilly-framepay-google-pay > iframe {
+    border: none;
+    height: 100%;
+    width: 100%;
+  }
+
+  .divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: calc(var(--r-space-5) * 1.5) 0;
+    height: 1px;
+    background-color: var(--r-border);
+
+    .divider-label {
+      background-color: var(--r-surface);
+      padding: var(--r-space-4);
+    }
+  }
+}
